@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
+The scraper is saving market info about cryptocurrencies
+from "coinmarketcap" in "coins.xlsx" file
+in the same directory with script.
+
 @author: RGalichanskiy
 """
 
